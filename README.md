@@ -21,3 +21,10 @@ Datele vor fi preluate de pe site-uri publice care ofera statistici despre meciu
 ## Obiectiv
 Scopul proiectului este de a construi un model de Machine Learning care sa poata prezice castigatorul unui meci de tenis. 
 Pentru acest lucru vor fi analizate date precum rankingul jucatorilor, rezultatele meciurilor si alte statistici relevante, pentru a observa ce factori influenteaza cel mai mult rezultatul unui meci.
+
+
+## Tehnologii utilizate:
+- Python
+- pandas
+- matplotlib
+- seaborn
